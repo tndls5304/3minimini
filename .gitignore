@@ -1,0 +1,5 @@
+teamworkspace/.gitignore
+*.classpath
+teamworkspace/teamprj/.gitignore
+*.project
+teamworkspace/teamprj/.settings/
